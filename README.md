@@ -16,7 +16,7 @@ Este script Python lê arquivos VCard (VCF) contendo informações de contato e 
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/usuario/repositorio.git
+   git clone https://github.com/Ricardo-SS/Convert_VCF_To_PDF.git
    ```
 
 2. Instale a biblioteca `reportlab`:
