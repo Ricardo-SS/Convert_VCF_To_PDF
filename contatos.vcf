@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:João Silva
+N:Silva;João;;;
+TEL;TYPE=CELL:+55 11 1234-5678
+EMAIL:joao@example.com
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+FN:Maria Santos
+N:Santos;Maria;;;
+TEL;TYPE=CELL:+55 21 9876-5432
+EMAIL:maria@example.com
+END:VCARD
